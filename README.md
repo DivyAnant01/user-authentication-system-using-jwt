@@ -21,4 +21,4 @@ This project is a Node.js-based web application that includes authentication, ro
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/DivyAnant01/user-authentication-system-using-jwt.git
